@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Electrical and Computer Engineering at the University of Macau.
 - 💼 &nbsp; Working as a Freelance Web Developer.
 - 🌱 &nbsp; Learning more about Web3, Hardware and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing UI/UX, Blog Writing, Podcasting and Drawing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing UI/UX, Blog Writing & Podcasting.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
